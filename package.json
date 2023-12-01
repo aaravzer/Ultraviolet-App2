@@ -1,7 +1,7 @@
 {
-  "name": "-app",
+  "name": "a",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "a",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
